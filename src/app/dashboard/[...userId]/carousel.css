@@ -1,0 +1,10 @@
+.slick-dots {
+    display: flex !important;
+    /* background-color: white; */
+    justify-content: flex-end;
+    margin-bottom: 20px;
+}
+.slick-dots li button:before{
+    font-size: 16px !important;
+    color: white !important;
+}
